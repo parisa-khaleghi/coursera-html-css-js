@@ -1,2 +1,2 @@
-# coursera--html-css-js
+# coursera-html-css-js
 Coursera HTML, CSS, JS course - project assignments
